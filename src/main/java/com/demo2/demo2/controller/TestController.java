@@ -8,7 +8,7 @@ public class TestController{
     
     @GetMapping("/getAll")
     public String getAllStudent(){
-        return "Tharanga nuwan";
+        return "Tharanga nuwan Kumara";
     }
 
 }
